@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/New-Chat/static/css/main.3471ab2a.css",
+    "main.js": "/New-Chat/static/js/main.1c520971.js",
+    "static/media/switch.png": "/New-Chat/static/media/switch.53ed52ce408620a42b00.png",
+    "index.html": "/New-Chat/index.html",
+    "main.3471ab2a.css.map": "/New-Chat/static/css/main.3471ab2a.css.map",
+    "main.1c520971.js.map": "/New-Chat/static/js/main.1c520971.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3471ab2a.css",
+    "static/js/main.1c520971.js"
+  ]
+}
